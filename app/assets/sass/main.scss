@@ -9,6 +9,10 @@
 // Add your custom CSS/Sass styles below...
 //////////////////////////////////////////
 
+.nhsuk-lede-text {
+    margin-bottom: 20px;
+}
+
 
 // A-Z Nav -------------------
 .letter-list a {
@@ -32,10 +36,10 @@
 }
 
 
-.letter-list a:focus {
-    color: #fff;
-    background-color: #005eb8;
-}
+//.letter-list a:focus {
+//    color: #fff;
+//    background-color: #005eb8;
+//}
 
 .letter-list a:focus {
     background-color: #ffeb3b;
@@ -60,15 +64,12 @@
 
 
 // Change row background colour on hover -------------------
-
 .nhsuk-list--border li {
     border-bottom: 1px solid #d8dde0;
     padding: 16px 0 16px;
     margin-bottom: 0px;
     //background-color: #d8dde0;
-
 }
-
 
 .az-row li:hover {
     border-bottom-color: #aeb7bd;

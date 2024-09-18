@@ -7499,6 +7499,10 @@ b {
   }
 }
 
+.nhsuk-lede-text {
+  margin-bottom: 20px;
+}
+
 .letter-list a {
   display: block;
   border: 2px solid #005eb8;
@@ -7515,11 +7519,6 @@ b {
 }
 
 .letter-list a:hover {
-  color: #fff;
-  background-color: #005eb8;
-}
-
-.letter-list a:focus {
   color: #fff;
   background-color: #005eb8;
 }
